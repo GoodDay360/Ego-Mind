@@ -3,9 +3,9 @@ Easily manage your documents.
 # Feature
 - Search your documents name.
 - Search text in your documents and list all file name that contain specific text.
-# Please read
-Keep it in mind that this program is still in beta. If you found any unexpected error/bugs, please report it to us at our 
-[Discord](https://discord.gg/jQebZhZ) Server by create tickets or sent it via my Gmail: sopheachhem31@gmail.com.
 # System requirements
 - Window 8 or above
 - Atleast have graphic card with 128mb or above
+# Please read
+Keep it in mind that this program is still in beta. If you found any unexpected error/bugs, please report it to us at our 
+[Discord](https://discord.gg/jQebZhZ) Server by create tickets or sent it via my Gmail: sopheachhem31@gmail.com.
