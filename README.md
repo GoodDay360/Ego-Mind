@@ -8,7 +8,7 @@ Easily manage your documents.
 - Atleast have graphic card with 128mb or above
 - Virtual Machine might not support
 # Future plans
-- Add Publi QNA for user to help each other
+- Add Public QNA for user to help each other
 - Add chat for user to communicate with each other
 - Support more OS Platform
 # Please read
