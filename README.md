@@ -7,7 +7,7 @@ Easily manage your documents.
 - Window 8 or above
 - Atleast have graphic card with 128mb or above
 - Virtual Machine might not support
-# Future plan
+# Future plans
 - Add Publi QNA for user to help each other
 - Add chat for user to communicate with each other
 - Support more OS Platform
