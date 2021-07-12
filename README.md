@@ -3,3 +3,6 @@ Easily manage your documents.
 # Feature
 - Search your documents name.
 - Search text in your documents and list all file name that contain specific text.
+# System requirements
+- Window 8 or above
+- Atleast have graphic card with 128mb or above
