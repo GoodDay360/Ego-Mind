@@ -13,4 +13,5 @@ Easily manage your documents.
 - Support more OS Platform
 # Please read
 Keep it in mind that this program is still in beta. If you found any unexpected error/bugs, please report it to us at our 
-[Discord](https://discord.gg/jQebZhZ) Server by create tickets or sent it via my Gmail: sopheachhem31@gmail.com.
+[Discord](https://discord.gg/jQebZhZ) Server by create tickets or sent it via my Gmail: sopheachhem31@gmail.com.  
+This program is not fully public yet. If you need an account, please reach out to us.
