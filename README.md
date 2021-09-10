@@ -11,4 +11,4 @@ Easily manage your documents. [Download](https://github.com/GoodDay360/Ego-Mind/
 - Add chat for user to communicate with each other
 - Support more OS Platform
 # Please read
-Keep it in mind that this program is still in beta. If you found any unexpected error/bugs, please report it at [Issues](https://github.com/GoodDay360/Ego-Mind/issues)
+Keep it in mind that this program is still in beta. If you found any unexpected error/bugs, please report it at [Issues](https://github.com/GoodDay360/Ego-Mind/issues).
