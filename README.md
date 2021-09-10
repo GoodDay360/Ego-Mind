@@ -5,7 +5,6 @@ Easily manage your documents. [Download](https://github.com/GoodDay360/Ego-Mind/
 - Search text in your documents and list all documents name that contain specific text.
 # System requirements
 - Window 8 or above
-- Atleast have graphic card with 128mb or above
 - Virtual Machine might not support
 # Future plans
 - Add Public QNA for user to help each other
