@@ -1,4 +1,4 @@
-# ⚠️ This project is stand by for the time being. This project is going to be rebuild.
+# ⚠️ This project is stand by for the time being and it is going to be rebuild in the future.
 # Ego Mind <img src="https://static.thenounproject.com/png/1399858-200.png" align="right" title="Maestral" width="110" height="110">
 Easily manage your documents. [Download](https://github.com/GoodDay360/Ego-Mind/releases) Ego Mind-Beta 1.0.  
 # Features
